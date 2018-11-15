@@ -1,0 +1,36 @@
+Gene expression cancer RNA-Seq Data Set
+
+Abstract: This collection of data is part of the RNA-Seq (HiSeq) PANCAN data set, it is a random extraction of gene expressions of patients having different types of tumor: BRCA, KIRC, COAD, LUAD and PRAD.
+
+Data Set Characteristics:  Multivariate
+	
+Number of Instances: 801
+Number of Attributes: 20531
+	
+Area: Life
+
+Attribute Characteristics: Real
+
+Date Donated: 2016-06-09
+
+Associated Tasks: Classification, Clustering
+
+Missing Values: N/A
+
+Number of Web Hits: 24973
+
+Source:
+Samuele Fiorini, samuele.fiorini '@' dibris.unige.it, University of Genoa, redistributed under Creative Commons license (http://creativecommons.org/licenses/by/3.0/legalcode) from https://www.synapse.org/#!Synapse:syn4301332.
+
+Data Set Information:
+Samples (instances) are stored row-wise. Variables (attributes) of each sample are RNA-Seq gene expression levels measured by illumina HiSeq platform.
+
+Attribute Information:
+A dummy name (gene_XX) is given to each attribute. Check the original submission ([Web Link]#!Synapse:syn4301332), or the platform specs for the complete list of probes name. The attributes are ordered consitently with the original submission.
+
+Relevant Papers:
+Weinstein, John N., et al. 'The cancer genome atlas pan-cancer analysis project.' Nature genetics 45.10 (2013): 1113-1120.
+
+
+Citation Request:
+The original data set (hosted at [Web Link]#!Synapse:syn4301332) is maintained by the cancer genome atlas pan-cancer analysis project.
